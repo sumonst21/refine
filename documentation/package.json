@@ -33,7 +33,7 @@
     "docusaurus-plugin-copy": "^0.1.1",
     "dotenv": "^16.0.2",
     "framer-motion": "^6.5.1",
-    "postcss": "^8.4.16",
+    "postcss": "^8.5.10",
     "prism-react-renderer": "^1.3.5",
     "raw-loader": "^4.0.2",
     "react": "^17.0.2",
